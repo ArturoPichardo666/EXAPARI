@@ -5,8 +5,7 @@
 n=True
 suma=0
 while n:
-
-print("Dame el numero 1")
+    print("Dame el numero 1")
 num1=int (input())
 print("Dame el numero 2")
 num2=int (input())
