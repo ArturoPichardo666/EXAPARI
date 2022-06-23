@@ -1,15 +1,10 @@
 print("Dame un numero para A")
 a =int(input())
-b = 0
-while a >= b :
-    print("Dame un numero para B")
-    b =int(input())
-    suma = b + a
-    print("la suma es",suma)
-if a <= b or b <= b:
-    Multiplicacion= b * a
-    print("La Multiplicacion es:",Multiplicacion)
-while b >= a:
-    print(b)
-    b = b - 1
-
+print("Dame un numero para B")
+b =int(input())
+suma = a + b
+multi =a * b
+if a >= b:
+    print("La suma es",suma)
+if b >= a:
+    print("la multiplicacion es",multi) 
