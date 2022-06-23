@@ -8,3 +8,4 @@ if a >= b:
     print("La suma es",suma)
 if b >= a:
     print("la multiplicacion es",multi) 
+  

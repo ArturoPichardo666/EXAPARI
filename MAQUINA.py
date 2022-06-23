@@ -18,4 +18,4 @@ elif opcion == 2:
     bebida = B
 else:
     bebida = C
-mone = bebida
+mone = bebida   
